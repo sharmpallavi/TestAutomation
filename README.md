@@ -13,6 +13,10 @@ Configuration settings:
 
 Information:
 1. The automation implementation is according to PAGE OBJECT Model design pattern
+2. POM is a design pattern where we seperate the locators, keywords and test steps
+3. Locators file contains all the locators
+4. Keywords files contains user defined keywords which is used in test script
+5. Test script file contains actual test steps
 
 
 
